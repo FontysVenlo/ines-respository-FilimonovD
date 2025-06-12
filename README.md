@@ -153,7 +153,7 @@ Our communication was effective throughout the week. We made decisions together 
     
 - [Documentation Motor](https://docs.rs-online.com/d369/A700000008919642.pdf)
 
-- [Documentation Motor Driver](https://docs.rs-online.com/d369/A700000008919642.pdf)
+- [Documentation Motor Driver](https://www.analog.com/media/en/technical-documentation/data-sheets/tmc2209_datasheet_rev1.09.pdf)
 
 
     
