@@ -359,7 +359,7 @@ We also made sure that both of us were on the same page regarding next steps. Ov
 
 - [Photo Final 3D Printing](#)
     
-- [Code](#)
+- [Code Repository](https://github.com/FontysVenlo/prj4e-repository-group_e03)
     
 - [Project board](https://github.com/orgs/FontysVenlo/projects/620)
 
