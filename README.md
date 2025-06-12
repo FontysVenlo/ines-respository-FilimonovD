@@ -36,9 +36,9 @@ To achieve this, I will follow an agile approach. This aligns with HBO-i Level 2
 
 **Evidence:**
 
-- Brainstorm list
+- [Brainstorm list](Evidence/Braimstorm.md)
     
-- Personal focus areas
+- [Personal Focus Areas](Evidence/Personal%20Focus%20Areas)
     
 
 **Reflection:**  
@@ -62,9 +62,9 @@ We came up with a project idea pretty quickly, which really helped us get starte
 
 **Evidence:**
 
-- C assignments
+- [C Assignments](https://github.com/FontysVenlo/ines-course-exercises-FilimonovD/blob/main/src/main.c)
     
-- Initial project idea
+- [Initial project idea](https://github.com/FontysVenlo/prj4e-repository-group_e03/blob/main/analysis/Smart_Radiator_Thermostat_Project.pdf)
     
 
 **Reflection:**  
@@ -76,7 +76,7 @@ This week, I continued learning C and worked through the INES course to refresh 
 
 **Learning Goal 01**
 
-- Continue with INES assignments: PWM and I2C
+- Continue with INES assignments
     
 
 **Learning Goal 02**
@@ -86,9 +86,9 @@ This week, I continued learning C and worked through the INES course to refresh 
 
 **Evidence:**
 
-- C Assignments
+- [C Assignments](https://github.com/FontysVenlo/ines-course-exercises-FilimonovD/tree/main/PlatformIO/Projects)
     
-- Component list
+- [Components](Evidence/Components)
     
 
 **Reflection:**  
@@ -116,13 +116,12 @@ This week, I continued with the embedded-specific INES assignments and focused o
 
 **Evidence:**
 
-- Final component list
+- [Final component list](https://github.com/FontysVenlo/prj4e-repository-group_e03/blob/main/analysis/Component%20List.md)
     
-- Sketch
+- [Sketch](https://github.com/FontysVenlo/prj4e-repository-group_e03/blob/main/analysis/Design/Idea_Sketch.pdf)
     
-- 3D printing information
+- [3D Printing Information](https://github.com/FontysVenlo/prj4e-repository-group_e03/blob/main/analysis/Design/3D%20Printing%20for%20Smart%20Radiator%20Thermostat.md)
     
-- Motor types information
     
 
 **Reflection:**  
@@ -140,7 +139,7 @@ Our communication was effective throughout the week. We made decisions together 
 
 - Explore basic LoRa communication and message structure
     
-- Research and experiment with code to power and control stepper motors
+- Research code to power and control stepper motors
     
 
 **Learning Goal 02**
@@ -150,17 +149,19 @@ Our communication was effective throughout the week. We made decisions together 
 
 **Evidence:**
 
-- LoRa code
+- [LoRa Documentation](https://lora.readthedocs.io/en/latest/)
     
-- Motor code
-    
-- Libraries & documentation
+- [Documentation Motor](https://docs.rs-online.com/d369/A700000008919642.pdf)
+
+- [Documentation Motor Driver](https://docs.rs-online.com/d369/A700000008919642.pdf)
+
+
     
 
 **Reflection:**  
-This week, I focused on understanding the theory behind LoRa communication. I learned how the technology works, especially the way it enables long-range, low-power data transfer using simple message structures. Even though we didn’t have the components yet, going through the documentation helped me build a basic understanding of how we’ll later implement communication between the remote and the device.
+This week, I focused on understanding the theory behind LoRa communication. I learned how the technology works, especially the way it enables long-range, low-power data transfer. Even though we didn’t have the components yet, going through the documentation helped me build a basic understanding of how we’ll later implement communication between the remote and the device.
 
-I also looked into how motor control works, particularly with stepper motors. I learned about signal timing and how drivers handle the actual movement. Reading through available libraries and documentation for components like the display, motor driver, and LoRa module gave me a better idea of what’s possible and what the software side will involve later on.
+I also looked into how motor control works, particularly with stepper motors. I learned about how drivers handle the actual movement. Reading through available libraries and documentation for components like the display, motor driver, and LoRa module gave me a better idea of what’s possible and what the software side will involve later on.
 
 Even though this week was more theoretical, it was valuable preparation. I feel more confident about what we’ll need to do once the hardware arrives.
 
@@ -190,11 +191,17 @@ Even though this week was more theoretical, it was valuable preparation. I feel 
 
 **Evidence:**
 
-- Code
+- [Motor test code](Evidence/Motor%20code.c)
+
+- [LoRa Send Code](Evidence/LoRa%20send.c)
+
+- [LoRa Recieve Code](Evidence/LoRa%20recieve.c)
     
-- 3D print photo (first version)
+- [3D print photo #add](#) 
     
-- Photo of soldering
+- [Photo of soldering #add](#)
+
+- [Project board](https://github.com/orgs/FontysVenlo/projects/620)
     
 
 **Reflection:**  
@@ -222,7 +229,9 @@ To support our workflow, we created a simple sprint board and held our first pla
 
 **Evidence:**
 
-- C++ code
+- [Starting C++](Evidence/GetToKnowCPP.cpp)
+
+- [Sprint Review](Evidence/Sprint%20review.md)
     
 
 **Reflection:**  
@@ -246,9 +255,9 @@ We also spent some time fixing a few hardware connection problems that were affe
 
 **Evidence:**
 
-- More C++ code
+- [Continue C++](Evidence/CPP.cpp)
     
-- Real-time documentation and information
+- [Real Time](Evidence/Real%20Time%20Docu.md)
     
 
 **Reflection:**  
@@ -276,7 +285,11 @@ Overall, the week was productive — I made technical progress and got a clearer
 
 **Evidence:**
 
-- Initial project structure
+- [3D Code](Evidence/3D_modelingV1.ipynb)
+
+- [Photo 1](Evidence/MotorcasingV1.jpg)
+
+- [Photo 2](Evidence/MotorcasingV2.jpg)
     
 - Review documentation
     
@@ -304,7 +317,7 @@ Together with my teammate, we reviewed the overall mechanical setup and talked t
 
 **Evidence:**
 
-- Parts missing, newly ordered
+- [New Sensor](Evidence/Sensor_Comparison.md)
     
 
 **Reflection:**  
@@ -346,11 +359,11 @@ We also made sure that both of us were on the same page regarding next steps. Ov
 
 **Evidence:**
 
-- Photo of final 3D printing
+- [Photo Final 3D Printing](#)
     
-- Code
+- [Code](#)
     
-- Project board
+- [Project board](https://github.com/orgs/FontysVenlo/projects/620)
 
 **Reflection :** 
 
