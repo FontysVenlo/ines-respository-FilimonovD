@@ -291,8 +291,6 @@ Overall, the week was productive — I made technical progress and got a clearer
 
 - [Photo 2](Evidence/MotorcasingV2.jpg)
     
-- Review documentation
-    
 
 **Reflection:**  
 This week, we worked on designing and improving the 3D printable parts for securely mounting the stepper motor. It was a good learning experience to see how small adjustments can make a big difference in fit and stability. Iterating on the design helped us move closer to a version that meets both functional and mechanical requirements.
