@@ -38,7 +38,7 @@ To achieve this, I will follow an agile approach. This aligns with HBO-i Level 2
 
 - [Brainstorm list](Evidence/Braimstorm.md)
     
-- [Personal Focus Areas](Evidence/Personal%20Focus%20Areas)
+- [Personal Focus Areas](https://github.com/FontysVenlo/ines-respository-FilimonovD/blob/main/Evidence/Personal%20Focus%20Areas.md)
     
 
 **Reflection:**  
@@ -62,7 +62,7 @@ We came up with a project idea pretty quickly, which really helped us get starte
 
 **Evidence:**
 
-- [C Assignments](https://github.com/FontysVenlo/ines-course-exercises-FilimonovD/blob/main/src/main.c)
+- [C Assignments](https://github.com/FontysVenlo/ines-course-exercises-FilimonovD/blob/main/src/)
     
 - [Initial project idea](https://github.com/FontysVenlo/prj4e-repository-group_e03/blob/main/analysis/Smart_Radiator_Thermostat_Project.pdf)
     
@@ -88,7 +88,7 @@ This week, I continued learning C and worked through the INES course to refresh 
 
 - [C Assignments](https://github.com/FontysVenlo/ines-course-exercises-FilimonovD/tree/main/PlatformIO/Projects)
     
-- [Components](Evidence/Components)
+- [Components](https://github.com/FontysVenlo/ines-respository-FilimonovD/blob/main/Evidence/Components.md)
     
 
 **Reflection:**  
@@ -197,15 +197,11 @@ Even though this week was more theoretical, it was valuable preparation. I feel 
 
 - [LoRa Recieve Code](Evidence/LoRa%20recieve.c)
     
-- [3D print photo #add](#) 
-    
-- [Photo of soldering #add](#)
-
 - [Project board](https://github.com/orgs/FontysVenlo/projects/620)
     
 
 **Reflection:**  
-During Project Week 1, we successfully powered the motor and driver for the first time and began writing the initial code to control the actuator. It was exciting to finally move from theory to hands-on work and see the hardware respond. We also set up the LoRa modules and prepared them for later testing, which helped us understand the communication flow between the remote and the main unit.
+During Project Weeks, we successfully powered the motor and driver for the first time and began writing the initial code to control the actuator. It was exciting to finally move from theory to hands-on work and see the hardware respond. We also set up the LoRa modules and prepared them for later testing, which helped us understand the communication flow between the remote and the main unit.
 
 In parallel, we 3D printed some basic mechanical parts. It was our first time working with a 3D printer for this project, and it gave us a good introduction to how mechanical and embedded elements come together. We also got a better idea of the tolerances and limitations of printed parts.
 
@@ -237,7 +233,7 @@ To support our workflow, we created a simple sprint board and held our first pla
 **Reflection:**  
 This week, I started working with C++ and began learning how to structure embedded code using classes and other object-oriented features. The syntax took a bit of getting used to, but I’m beginning to see how it can make the codebase more organized and scalable as the project grows.
 
-We also spent some time fixing a few hardware connection problems that were affecting stability. Cleaning things up made the system run more reliably and set a better foundation for adding new features. Our communication continued to work well, which made it easier to solve issues and stay focused. Reviewing our sprint also helped us reflect on where we can plan better before starting the next development phase.
+We also spent some time fixing a few hardware connection problems. Cleaning things up made the system run more reliably and set a better foundation for adding new features. Our communication continued to work well. Reviewing our sprint also helped us reflect on where we can plan better before starting the next development phase.
 
 ---
 
@@ -273,7 +269,7 @@ Overall, the week was productive — I made technical progress and got a clearer
 
 **Learning Goal 01**
 
-- Design and iterate on 3D printable parts to house the stepper motor securely
+- Design and iterate on 3D printable parts
     
 
 **Learning Goal 02**
@@ -308,9 +304,9 @@ Together with my teammate, we reviewed the overall mechanical setup and talked t
 
 **Learning Goal 02**
 
-- Conduct a hardware review to ensure all components support the current system design
+- Hardware review 
     
-- Collaborate with teammate to reflect on past decisions and their technical impact
+- Reflect on past decisions 
     
 
 **Evidence:**
@@ -327,7 +323,7 @@ We also made sure that both of us were on the same page regarding next steps. Ov
 
 ---
 
-### Weeks 12, 13, 14 – 26.05, 02.06, 09.06a | Project Weeks 3–5
+### Weeks 12, 13, 14 – 26.05, 02.06, 09.06 | Project Weeks 3–5
 
 **Learning Goal 01**
 
@@ -341,10 +337,6 @@ We also made sure that both of us were on the same page regarding next steps. Ov
     
 - Write motor control logic with real-time response
     
-- Implement a calibration routine for initialization (if time permits)
-    
-- (Optional) Design and print housing for the remote control
-    
 - Assemble and test the entire system under realistic usage conditions
     
 
@@ -357,8 +349,6 @@ We also made sure that both of us were on the same page regarding next steps. Ov
 
 **Evidence:**
 
-- [Photo Final 3D Printing](#)
-    
 - [Code Repository](https://github.com/FontysVenlo/prj4e-repository-group_e03)
     
 - [Project board](https://github.com/orgs/FontysVenlo/projects/620)
