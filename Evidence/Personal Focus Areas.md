@@ -1,4 +1,5 @@
-Personal Focus Areas – Week 1
+Personal Focus Areas
+---
 I want to grow professionally and personally through this project.
 I see this as a chance to take more responsibility, make decisions, and learn from real experience.
 
