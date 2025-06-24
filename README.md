@@ -6,7 +6,7 @@
 
 **LG 01** Plans and executes a project in their track at level 2 of the HBO-i framework regarding autonomy and complexity, in an agile way
 
-**In my own words:** I want to become a competent programmer in C/C++ while working on my Smart Radiator Thermostat project. My focus is on software optimization and embedded systems development, improving my ability to write efficient and structured code for hardware interaction, ensuring stable motor control and sensor data processing.
+**In my own words:**  Hardware-interfacing - Design & Realise - I want to become a competent programmer in C/C++ while working on my Smart Radiator Thermostat project. My focus is on software optimization and embedded systems development, improving my ability to write efficient and structured code for hardware interaction, ensuring stable motor control and sensor data processing.
 
 To achieve this, I will follow an agile approach. This aligns with HBO-i Level 2, as I work in a structured environment with an unpredictable context, where the problem is given, but I independently determine the approach and solve interactive issues throughout the project.
 
